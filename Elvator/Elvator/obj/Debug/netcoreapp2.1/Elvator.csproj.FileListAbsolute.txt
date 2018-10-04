@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Elvator\Elvator\Elvator\bin\Debug\netcoreapp2.1\Elvator.deps.json
+C:\Users\PC\Desktop\Elvator\Elvator\Elvator\bin\Debug\netcoreapp2.1\Elvator.runtimeconfig.json
+C:\Users\PC\Desktop\Elvator\Elvator\Elvator\bin\Debug\netcoreapp2.1\Elvator.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Elvator\Elvator\Elvator\bin\Debug\netcoreapp2.1\Elvator.dll
+C:\Users\PC\Desktop\Elvator\Elvator\Elvator\bin\Debug\netcoreapp2.1\Elvator.pdb
+C:\Users\PC\Desktop\Elvator\Elvator\Elvator\obj\Debug\netcoreapp2.1\Elvator.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Elvator\Elvator\Elvator\obj\Debug\netcoreapp2.1\Elvator.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Elvator\Elvator\Elvator\obj\Debug\netcoreapp2.1\Elvator.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Elvator\Elvator\Elvator\obj\Debug\netcoreapp2.1\Elvator.AssemblyInfo.cs
+C:\Users\PC\Desktop\Elvator\Elvator\Elvator\obj\Debug\netcoreapp2.1\Elvator.dll
+C:\Users\PC\Desktop\Elvator\Elvator\Elvator\obj\Debug\netcoreapp2.1\Elvator.pdb
